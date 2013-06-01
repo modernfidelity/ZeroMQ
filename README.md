@@ -1,7 +1,7 @@
 ZeroMQ
 ======
 
-Some basic ZeroMQ examples
+Some basic ZeroMQ examples in  C / C++ code.
 
 Install Libzmq (3.2.3)
 ---------------
